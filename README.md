@@ -1,10 +1,22 @@
-# 7-OH / Kratom Taper Protocol
+# 7-OH Taper Protocol
 
-A harm-reduction guide for tapering off kratom (mitragynine) and its concentrated form, **7-OH (7-hydroxymitragynine)** — using a step-down schedule, a plain-leaf capsule bridge, and powder-ration titration.
+A harm-reduction method for tapering off **7-OH (7-hydroxymitragynine)** — the concentrated kratom extract — by using an AI as an accountability partner to report doses to, set goals with, and log your intake, then stepping down from 7-OH to plain dry-leaf kratom and finally off completely.
 
 > **What's 7-OH?** 7-hydroxymitragynine is the much more potent, concentrated alkaloid in kratom extract shots. If you've been using 7-OH extracts, this guide is written for you — but note one critical rule up front: **do not switch to a 7-OH extract mid-taper.** It's the reverse of tapering and re-spikes tolerance.
 
-> **⚠️ Not medical advice.** This is a personal harm-reduction method shared to help people facing the same taper. Kratom withdrawal can be medically serious. Talk to a clinician before starting, and seek emergency care for the red-flag symptoms listed below.
+> **⚠️ I am not a medical professional, and this is not medical advice.** This is a self-directed accountability method — a way to use an AI to report doses, set goals, and log your intake so the taper stays honest and on track. It is not a substitute for a doctor. **Consult a medical professional whenever needed**, and seek emergency care for the red-flag symptoms listed below.
+
+---
+
+## What this is (and isn't)
+
+This is a tool for **accountability**, not a treatment plan. Its whole job is to give you an AI partner you can:
+
+- **Report every dose to** (amount + time, no judgment)
+- **Set step-down goals with** (a schedule you can actually stick to)
+- **Log all of your 7-OH intake**, so you can see the trend instead of guessing
+
+From there the arc is simple: **7-OH → dry-leaf kratom → off completely.** The AI keeps the record, you keep the honesty, and together you walk the number down.
 
 ---
 
@@ -18,7 +30,7 @@ You don't need to understand the science or know how to "code." You just need an
 
 **Step 2 — Start a new chat and paste this:**
 
-> "Read this guide and keep it as a skill. I want your help tapering off 7-OH / kratom. Here's where I'm at: [tell it what you take, how much, how often, and how you've been feeling]."
+> "Read this guide and keep it as a skill. I want you to be my accountability partner for tapering off 7-OH. Here's where I'm at: [tell it what you take, how much, how often, and how you've been feeling]. We'll log every dose, set step-down goals, and taper from 7-OH to plain dry-leaf kratom, then off completely."
 
 **Step 3 — Just talk.** From there the AI will help you:
 - Build a step-down schedule that fits your intake
@@ -90,4 +102,4 @@ Withdrawal sweats plus any vomiting together create dehydration risk. Small sips
 1. The taper ends the *substance* dependency, not the *habit*. The final stretch is as much about habit and fear as chemistry — that's normal, and it passes.
 2. The most important tool isn't the schedule — it's **honest logging**. A hidden or under-reported number is the one thing that will quietly wreck the taper.
 
-This guide exists to help people who are doing this mostly alone. But it is not a substitute for medical care — if you can work with a clinician, do.
+I am not a medical professional. This guide exists to help people who are doing this mostly alone by giving them an accountability partner they can report to and a path to follow. It is not a substitute for medical care — consult a clinician whenever you need to.
