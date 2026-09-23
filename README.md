@@ -1,6 +1,8 @@
-# Gradual Kratom Taper Protocol
+# 7-OH / Kratom Taper Protocol
 
-A harm-reduction guide for tapering off kratom (mitragynine) gradually — using a step-down schedule, a plain-leaf capsule bridge, and powder-ration titration.
+A harm-reduction guide for tapering off kratom (mitragynine) and its concentrated form, **7-OH (7-hydroxymitragynine)** — using a step-down schedule, a plain-leaf capsule bridge, and powder-ration titration.
+
+> **What's 7-OH?** 7-hydroxymitragynine is the much more potent, concentrated alkaloid in kratom extract shots. If you've been using 7-OH extracts, this guide is written for you — but note one critical rule up front: **do not switch to a 7-OH extract mid-taper.** It's the reverse of tapering and re-spikes tolerance.
 
 > **⚠️ Not medical advice.** This is a personal harm-reduction method shared to help people facing the same taper. Kratom withdrawal can be medically serious. Talk to a clinician before starting, and seek emergency care for the red-flag symptoms listed below.
 
