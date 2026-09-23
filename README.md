@@ -8,6 +8,28 @@ A harm-reduction guide for tapering off kratom (mitragynine) and its concentrate
 
 ---
 
+## How to use this with an AI (no experience needed)
+
+You don't need to understand the science or know how to "code." You just need any AI chat app — **ChatGPT, Claude, Grok, Gemini, or any of them.**
+
+**Step 1 — Give the guide to your AI.** Either:
+- Download it (green **Code** button → **Download ZIP**), or
+- Just use the link: `https://github.com/myredoak/7-oh-taper-protocol`
+
+**Step 2 — Start a new chat and paste this:**
+
+> "Read this guide and keep it as a skill. I want your help tapering off 7-OH / kratom. Here's where I'm at: [tell it what you take, how much, how often, and how you've been feeling]."
+
+**Step 3 — Just talk.** From there the AI will help you:
+- Build a step-down schedule that fits your intake
+- Track every dose
+- Hold steady on rough days instead of forcing a cut
+- Spot when a symptom is serious enough to need a doctor
+
+**One rule that makes it all work:** be honest about what you actually took. The whole method runs on a real record. Under your target is fine — it means it's working. A hidden or fudged number is the one thing that quietly wrecks it.
+
+---
+
 ## Core principles
 
 1. **Step down slowly.** Reduce your daily total by roughly one dose per day (e.g. 12 → 11 → 10 → … → 1 → 0). Hold flat on hard days — the ladder tolerates pause days.
