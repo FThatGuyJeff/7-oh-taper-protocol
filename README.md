@@ -14,7 +14,7 @@ You don't need to understand the science or know how to "code." You just need an
 
 **Step 1 — Give the guide to your AI.** Either:
 - Download it (green **Code** button → **Download ZIP**), or
-- Just use the link: `https://github.com/myredoak/7-oh-taper-protocol`
+- Just use the link: `https://github.com/FThatGuyJeff/7-oh-taper-protocol`
 
 **Step 2 — Start a new chat and paste this:**
 
